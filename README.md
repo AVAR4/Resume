@@ -15,4 +15,4 @@ Cloud: AWS (EC2, S3, RDS, IAM, VPC)
 
 📫 Contact
 Email: aaravsingh3262@gmail.com
-LinkedIn: linkedin.com/in/aarav-singh1209
+LinkedIn: www.linkedin.com/in/aarav-singh1209
